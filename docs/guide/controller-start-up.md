@@ -23,4 +23,4 @@ In the case that none of the above filenames exist or if the required language i
 > **Note** [Java]: In the Java case there are two options.
 The controller can be placed in a ".class" file or in a ".jar" file.
 If a ".class" file is used, it must be named "xyz\_controller.class".
-If a ".jar" file is used it must be named "xyz\_controller.jar" and it must contain a class named "xyz\_controller" that Webots will attempts to start.
+If a ".jar" file is used it must be named "xyz\_controller.jar" and it must contain a class named "xyz\_controller" that Webots will attempt to start.
