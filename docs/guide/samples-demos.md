@@ -12,7 +12,7 @@ For each demo, the world file and its corresponding controller have the same nam
 ![anaglyph.png](images/samples/anaglyph.thumbnail.jpg) This example demonstrates the merge of two [Camera](../reference/camera.md) images into one, in order to create an [anaglyph image](https://en.wikipedia.org/wiki/Anaglyph_3D).
 A stereoscopic camera is mounted on a `iRobot Create` robot.
 At each step, both [Camera](../reference/camera.md) images are merged into a [Display](../reference/display.md) device, one is filtered in red, and the other one is filtered in cyan.
-This produces an anaglyph 3D image that can be seen with low cost red/cyan 3D glassed.
+This produces an anaglyph 3D image that can be seen with low cost red/cyan 3D glasses.
 
 ### [gantry.wbt]({{ url.github_tree }}/projects/samples/demos/worlds/gantry.wbt)
 
